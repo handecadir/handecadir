@@ -1,19 +1,21 @@
 
 # About Me 👋
 
-Hi there! I'm a Ph.D. candidate in Molecular Biology with a deep passion for unraveling the complexities of life at the molecular level. My research primarily focuses on cancer biology and developmental biology
+Hi there! I'm a Ph.D. candidate in Molecular Biology with a deep passion for unraveling the complexities of life at the molecular level. 
 
 ## 🔬 Research Interests
 - **Glycosylation:** The role and effects of glycans on cell surfaces and proteins.
-- **Cancer Biology:** Molecular mechanisms related to cancer development and prognosis. especially SOX genes.
-- **Bioinformatics:** Utilizing computational tools to analyze large-scale omics data (TCGA, FPKM, count data).
-- **Long Non-Coding RNAs:** Their functions in cellular processes and relationships to cancer.
 - **Machine Learning:** Applying machine learning techniques for data analysis and modeling.
 - **Developmental Biology and Organogenesis:** The Study of Mechanisms of Early Embryonic Development and Organ Formation
+- **Bioinformatics & Statistical Genomics:** Leveraging large-scale genomic datasets (GWAS, eQTL, transcriptomics) for deeper biological insights.
+- **Polycystic Ovary Syndrome (PCOS):** Investigating the genetic and molecular mechanisms underlying PCOS
+- **Autism Spectrum Disorder (ASD):** Exploring the genetic architecture and neurodevelopmental pathways associated with ASD through statistical genomics and bioinformatics approaches.
+- **Variant Analysis:** Identifying and characterizing genetic variants associated with complex traits using GWAS, eQTL mapping, and integrative multi-omics approaches.
 
 ## 🌱 Learning and Growing
 - I'm constantly expanding my knowledge in advanced statistical analysis and data visualization in R.
-- Interested in the integration of multi-omics data to uncover novel insights into cancer biology and developmental biology.
+- Expanding expertise in MR methodologies, GWAS data analysis, and functional genomics.
+- Exploring multi-omics data integration to uncover novel biological mechanisms.
 
 
 ## 📫 Let's Connect!
