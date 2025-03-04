@@ -14,9 +14,8 @@ Hi there! I'm a Ph.D. candidate in Molecular Biology with a deep passion for unr
 
 ## 🌱 Learning and Growing
 - I'm constantly expanding my knowledge in advanced statistical analysis and data visualization in R.
-- Expanding expertise in MR methodologies, GWAS data analysis, and functional genomics.
-- Exploring multi-omics data integration to uncover novel biological mechanisms.
-
+- I'm expanding my expertise in MR methodologies, GWAS data analysis, and functional genomics.
+- I'm exploring multi-omics data integration to uncover novel biological mechanisms.
 
 ## 📫 Let's Connect!
 - Feel free to reach out to me for research collaborations or discussions about science
