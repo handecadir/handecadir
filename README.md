@@ -5,8 +5,6 @@ Hi there! I'm a Ph.D. candidate in Molecular Biology with a deep passion for unr
 
 ## 🔬 Research Interests
 - **Glycosylation:** The role and effects of glycans on cell surfaces and proteins.
-- **Machine Learning:** Applying machine learning techniques for data analysis and modeling.
-- **Developmental Biology and Organogenesis:** The Study of Mechanisms of Early Embryonic Development and Organ Formation
 - **Bioinformatics & Statistical Genomics:** Leveraging large-scale genomic datasets (GWAS, eQTL, transcriptomics) for deeper biological insights.
 - **Polycystic Ovary Syndrome (PCOS):** Investigating the genetic and molecular mechanisms underlying PCOS
 - **Autism Spectrum Disorder (ASD):** Exploring the genetic architecture and neurodevelopmental pathways associated with ASD through statistical genomics and bioinformatics approaches.
